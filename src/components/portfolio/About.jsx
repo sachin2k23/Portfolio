@@ -33,7 +33,7 @@ export default function About() {
             </h3>
             <ul className="space-y-4">
               {[
-                { Icon: Briefcase, label: "Role", value: "Front-End Developer at HourlyRecruit Tech Labs" },
+                { Icon: Briefcase, label: "Role", value: "Front-End Developer Intern at Akashaveda Technologies" },
                 { Icon: GraduationCap, label: "Education", value: "MCA — ATME College of Engineering, Mysuru" },
                 { Icon: Languages, label: "Languages", value: "English (Proficient), Kannada (Native)" },
               ].map(({ Icon, label, value }) => (
